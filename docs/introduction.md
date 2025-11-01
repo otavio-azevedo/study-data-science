@@ -71,10 +71,28 @@ In some cases, it’s common to see overlapping responsibilities.
 - Google Colab
 ---
 
-## Numpy Library (Numerical Python)
-TODO
-https://www.youtube.com/watch?v=N0J4Cqn43t8&list=PLxI8Can9yAHfsMKsLoHT5rKwOEffPgyWe&index=7
+## NumPy Library (Numerical Python)
+NumPy is one of the most popular libraries in the data science ecosystem. It's main focus is on numerical arrays and multidimensional arrays manipulation, other famous libraries has been built on top of NumPy library.
 
+> It provides: 
+> - a powerful N-dimensional array object
+> - sophisticated (broadcasting) functions
+> - tools for integrating C/C++ and Fortran code
+> -  useful linear algebra, Fourier transform, and random number capabilities
+
+
+https://github.com/numpy/numpy
+
+https://colab.research.google.com/drive/1dJ_xQkaLPeqYkktaDasZnkbQUXB3u7xc?usp=sharing
+
+## Pandas Library (Panel Data)
+Flexible and powerful data analysis and manipulation library for Python, providing labeled data structures similar to R data.frame objects, series and statistical functions.
+
+Similar to NumPy, Pandas focuses on tabular and heterogeneous data, while NumPy is more suitable for homogeneous arrays.
+
+https://github.com/pandas-dev/pandas
+
+https://colab.research.google.com/drive/1s1jX7BEEzd8tOZ0vVg1hiO8vh-p0aWPM?usp=sharing
 
 ---
 # References
